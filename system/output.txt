@@ -1,0 +1,266 @@
+C:\Users\DHANESH\Desktop>java Attend1
+Username:
+oopm1
+Password(will not be visible):
+
+Wrong Password
+Username:
+oopm1
+Password(will not be visible):
+
+Logged in Successfully to Object Oriented Programming Methodologies
+
+Choose the index of the month
+1.July
+2.August
+3.September
+4.October
+
+1
+Total lectures=10
+Any cancelled lectures or holidays?(y/n):
+y
+Enter no. of lectures to be reduced
+2
+Conducted Lectures=8
+Enter number of lectures attended against the student's name
+Akshay Sharma
+8
+Dhaval Raut
+4
+Dhruv Jain
+6
+Humaira Khan
+5
+Kajal Vora
+3
+Meghna Trivedi
+1
+Nakiya Zaveri
+7
+Priti Kakkar
+5
+Soumya Gupta
+6
+Vinay nayak
+2
+To enter the number of lectures of another month ENTER 'y'
+To end the program and create a defaulter list ENTER 'n'
+y
+Choose the index of the month
+1.July
+2.August
+3.September
+4.October
+
+2
+Total lectures=10
+Any cancelled lectures or holidays?(y/n):
+n
+Enter number of lectures attended against the student's name
+Akshay Sharma
+7
+Dhaval Raut
+8
+Dhruv Jain
+5
+Humaira Khan
+4
+Kajal Vora
+6
+Meghna Trivedi
+2
+Nakiya Zaveri
+8
+Priti Kakkar
+4
+Soumya Gupta
+6
+Vinay nayak
+3
+To enter the number of lectures of another month ENTER 'y'
+To end the program and create a defaulter list ENTER 'n'
+n
+To view Defaulter List of Object Oriented Programming Methodologies, open Defaulterlist_oopm.txt
+To view overall Defaulter List ,open Defaulterlist.txt
+Both the files are stored in the folder PROJECT on the DESKTOP.
+
+C:\Users\DHANESH\Desktop>java Attend1
+Username:
+data1
+Password(will not be visible):
+
+Logged in Successfully to Data Structures
+
+Choose the index of the month
+1.July
+2.August
+3.September
+4.October
+
+1
+Total lectures=10
+Any cancelled lectures or holidays?(y/n):
+n
+Enter number of lectures attended against the student's name
+Akshay Sharma
+4
+Dhaval Raut
+5
+Dhruv Jain
+7
+Humaira Khan
+9
+Kajal Vora
+8
+Meghna Trivedi
+6
+Nakiya Zaveri
+8
+Priti Kakkar
+8
+Soumya Gupta
+6
+Vinay nayak
+8
+To enter the number of lectures of another month ENTER 'y'
+ To end the program and create a defaulter                                      list ENTER 'n'
+n
+To view Defaulter List of Data Structures, open Defaulterlist_data.txt
+To view overall Defaulter List ,open Defaulterlist.txt
+Both the files are stored in the folder PROJECT on the DESKTOP.
+
+C:\Users\DHANESH\Desktop>java Attend1
+Username:
+dis1
+Password(will not be visible):
+
+Logged in Successfully to Discrete Structures
+
+Choose the index of the month
+1.July
+2.August
+3.September
+4.October
+
+1
+Total lectures=10
+Any cancelled lectures or holidays?(y/n):
+n
+Enter number of lectures attended against the student's name
+Akshay Sharma
+8
+Dhaval Raut
+4
+Dhruv Jain
+6
+Humaira Khan
+7
+Kajal Vora
+8
+Meghna Trivedi
+4
+Nakiya Zaveri
+7
+Priti Kakkar
+8
+Soumya Gupta
+6
+Vinay nayak
+8
+To enter the number of lectures of another month ENTER 'y'
+ To end the program and create a defaulter                                      list ENTER 'n'
+n
+To view Defaulter List of Discrete Structures, open Defaulterlist_dis.txt
+To view overall Defaulter List ,open Defaulterlist.txt
+Both the files are stored in the folder PROJECT on the DESKTOP.
+
+C:\Users\DHANESH\Desktop>java Attend1
+Username:
+data1
+Password(will not be visible):
+
+Logged in Successfully to Data Structures
+
+Choose the index of the month
+1.July
+2.August
+3.September
+4.October
+
+1
+Total lectures=10
+Any cancelled lectures or holidays?(y/n):
+n
+Enter number of lectures attended against the student's name
+Akshay Sharma
+4
+Dhaval Raut
+5
+Dhruv Jain
+7
+Humaira Khan
+9
+Kajal Vora
+8
+Meghna Trivedi
+6
+Nakiya Zaveri
+8
+Priti Kakkar
+8
+Soumya Gupta
+6
+Vinay nayak
+8
+To enter the number of lectures of another month ENTER 'y'
+To end the program and create a defaulter list ENTER 'n'
+n
+To view Defaulter List of Data Structures, open Defaulterlist_data.txt
+To view overall Defaulter List ,open Defaulterlist.txt
+Both the files are stored in the folder PROJECT on the DESKTOP.
+
+C:\Users\DHANESH\Desktop>java Attend1
+Username:
+dis1
+Password(will not be visible):
+
+Logged in Successfully to Discrete Structures
+
+Choose the index of the month
+1.July
+2.August
+3.September
+4.October
+
+1
+Total lectures=10
+Any cancelled lectures or holidays?(y/n):
+n
+Enter number of lectures attended against the student's name
+Akshay Sharma
+8
+Dhaval Raut
+4
+Dhruv Jain
+6
+Humaira Khan
+7
+Kajal Vora
+8
+Meghna Trivedi
+4
+Nakiya Zaveri
+7
+Priti Kakkar
+8
+Soumya Gupta
+6
+Vinay nayak
+8
+To enter the number of lectures of another month ENTER 'y'
+To end the program and create a defaulter list ENTER 'n'
+n
+To view Defaulter List of Discrete Structures, open Defaulterlist_dis.txt
+To view overall Defaulter List ,open Defaulterlist.txt
+Both the files are stored in the folder PROJECT on the DESKTOP.
